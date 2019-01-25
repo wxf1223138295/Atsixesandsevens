@@ -1,0 +1,13 @@
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\bin\Debug\UpdateHis.exe.config
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\bin\Debug\UpdateHis.exe
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\bin\Debug\UpdateHis.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\obj\Debug\UpdateHis.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\obj\Debug\UpdateHis.Form1.resources
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\obj\Debug\UpdateHis.Properties.Resources.resources
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\obj\Debug\UpdateHis.csproj.GenerateResource.cache
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\obj\Debug\UpdateHis.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\obj\Debug\UpdateHis.exe
+F:\NewCSharp\NewCharacteristicForCSharp\UpdateHis\obj\Debug\UpdateHis.pdb
+C:\Users\RICH-IT-DEV\Desktop\00Server - 副本\UpdateHis.exe.config
+C:\Users\RICH-IT-DEV\Desktop\00Server - 副本\UpdateHis.exe
+C:\Users\RICH-IT-DEV\Desktop\00Server - 副本\UpdateHis.pdb

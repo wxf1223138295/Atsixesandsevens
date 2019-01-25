@@ -1,0 +1,7 @@
+F:\NewCSharp\NewCharacteristicForCSharp\SortDependencies\bin\Debug\SortDependencies.exe.config
+F:\NewCSharp\NewCharacteristicForCSharp\SortDependencies\bin\Debug\SortDependencies.exe
+F:\NewCSharp\NewCharacteristicForCSharp\SortDependencies\bin\Debug\SortDependencies.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\SortDependencies\obj\Debug\SortDependencies.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\SortDependencies\obj\Debug\SortDependencies.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\SortDependencies\obj\Debug\SortDependencies.exe
+F:\NewCSharp\NewCharacteristicForCSharp\SortDependencies\obj\Debug\SortDependencies.pdb

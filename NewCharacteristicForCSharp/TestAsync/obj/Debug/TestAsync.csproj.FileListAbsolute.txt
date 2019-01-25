@@ -1,0 +1,7 @@
+F:\NewCSharp\NewCharacteristicForCSharp\TestAsync\bin\Debug\TestAsync.exe.config
+F:\NewCSharp\NewCharacteristicForCSharp\TestAsync\bin\Debug\TestAsync.exe
+F:\NewCSharp\NewCharacteristicForCSharp\TestAsync\bin\Debug\TestAsync.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\TestAsync\obj\Debug\TestAsync.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\TestAsync\obj\Debug\TestAsync.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\TestAsync\obj\Debug\TestAsync.exe
+F:\NewCSharp\NewCharacteristicForCSharp\TestAsync\obj\Debug\TestAsync.pdb

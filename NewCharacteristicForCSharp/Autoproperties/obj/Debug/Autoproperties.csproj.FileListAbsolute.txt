@@ -1,0 +1,7 @@
+E:\NewCSharp\NewCharacteristicForCSharp\Autoproperties\bin\Debug\Autoproperties.exe.config
+E:\NewCSharp\NewCharacteristicForCSharp\Autoproperties\bin\Debug\Autoproperties.exe
+E:\NewCSharp\NewCharacteristicForCSharp\Autoproperties\bin\Debug\Autoproperties.pdb
+E:\NewCSharp\NewCharacteristicForCSharp\Autoproperties\obj\Debug\Autoproperties.csprojResolveAssemblyReference.cache
+E:\NewCSharp\NewCharacteristicForCSharp\Autoproperties\obj\Debug\Autoproperties.csproj.CoreCompileInputs.cache
+E:\NewCSharp\NewCharacteristicForCSharp\Autoproperties\obj\Debug\Autoproperties.exe
+E:\NewCSharp\NewCharacteristicForCSharp\Autoproperties\obj\Debug\Autoproperties.pdb

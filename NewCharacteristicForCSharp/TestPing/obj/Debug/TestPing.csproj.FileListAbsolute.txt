@@ -1,0 +1,7 @@
+F:\NewCSharp\NewCharacteristicForCSharp\TestPing\obj\Debug\TestPing.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\TestPing\obj\Debug\TestPing.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\TestPing\bin\Debug\TestPing.exe.config
+F:\NewCSharp\NewCharacteristicForCSharp\TestPing\bin\Debug\TestPing.exe
+F:\NewCSharp\NewCharacteristicForCSharp\TestPing\bin\Debug\TestPing.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\TestPing\obj\Debug\TestPing.exe
+F:\NewCSharp\NewCharacteristicForCSharp\TestPing\obj\Debug\TestPing.pdb

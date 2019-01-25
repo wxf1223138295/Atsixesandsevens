@@ -1,0 +1,13 @@
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\bin\Debug\netcoreapp2.1\shawn.module.deps.json
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\bin\Debug\netcoreapp2.1\shawn.module.dll
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\bin\Debug\netcoreapp2.1\shawn.module.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\bin\Debug\netcoreapp2.1\Abp.dll
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\bin\Debug\netcoreapp2.1\Abp.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\bin\Debug\netcoreapp2.1\Abp.xml
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\obj\Debug\netcoreapp2.1\shawn.module.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\obj\Debug\netcoreapp2.1\shawn.module.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\obj\Debug\netcoreapp2.1\shawn.module.AssemblyInfoInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\obj\Debug\netcoreapp2.1\shawn.module.AssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\obj\Debug\netcoreapp2.1\shawn.module.csproj.CopyComplete
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\obj\Debug\netcoreapp2.1\shawn.module.dll
+F:\NewCSharp\NewCharacteristicForCSharp\shawn.module\obj\Debug\netcoreapp2.1\shawn.module.pdb

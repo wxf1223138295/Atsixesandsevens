@@ -1,0 +1,9 @@
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\bin\Debug\netcoreapp2.1\Project.Domain.deps.json
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\bin\Debug\netcoreapp2.1\Project.Domain.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\obj\Debug\netcoreapp2.1\Project.Domain.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\obj\Debug\netcoreapp2.1\Project.Domain.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\obj\Debug\netcoreapp2.1\Project.Domain.AssemblyInfoInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\obj\Debug\netcoreapp2.1\Project.Domain.AssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\bin\Debug\netcoreapp2.1\Project.Domain.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\obj\Debug\netcoreapp2.1\Project.Domain.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Domain\obj\Debug\netcoreapp2.1\Project.Domain.pdb

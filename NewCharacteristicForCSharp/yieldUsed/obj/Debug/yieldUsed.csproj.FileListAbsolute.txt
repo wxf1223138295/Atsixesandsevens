@@ -1,0 +1,7 @@
+F:\NewCSharp\NewCharacteristicForCSharp\yieldUsed\bin\Debug\yieldUsed.exe.config
+F:\NewCSharp\NewCharacteristicForCSharp\yieldUsed\bin\Debug\yieldUsed.exe
+F:\NewCSharp\NewCharacteristicForCSharp\yieldUsed\bin\Debug\yieldUsed.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\yieldUsed\obj\Debug\yieldUsed.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\yieldUsed\obj\Debug\yieldUsed.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\yieldUsed\obj\Debug\yieldUsed.exe
+F:\NewCSharp\NewCharacteristicForCSharp\yieldUsed\obj\Debug\yieldUsed.pdb

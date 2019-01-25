@@ -1,0 +1,21 @@
+﻿1. 只读自动属性（Read-only auto-properties）
+
+2. 自动属性初始化器（Auto-Property Initializers）
+
+3. 函数成员的表达式体（Expression-bodied function members）
+
+4. 使用静态（using static）
+
+5. Null条件运算符（Null-conditional operators）
+
+6. 字符串插值（String Interpolation）
+
+7. 异常过滤器（Exception Filters）
+
+8. nameof表达式(nameof Expressions)
+
+9. 在Catch和Finally中使用Await（Await in Catch and Finally blocks）
+
+ C# 5 提供的 async 和 await 使异步编程变得极为简便，但它们也有着局限性：await在catch和finally块中不能使用。
+
+10. Index初始化器（Index Initializers）

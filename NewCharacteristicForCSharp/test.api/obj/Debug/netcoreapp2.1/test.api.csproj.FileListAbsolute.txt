@@ -1,0 +1,14 @@
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\bin\Debug\netcoreapp2.1\test.api.deps.json
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\bin\Debug\netcoreapp2.1\test.api.runtimeconfig.json
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\bin\Debug\netcoreapp2.1\test.api.runtimeconfig.dev.json
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\bin\Debug\netcoreapp2.1\test.api.dll
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.RazorAssemblyInfo.cache
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.RazorAssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.AssemblyInfoInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.AssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.RazorTargetAssemblyInfo.cache
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\bin\Debug\netcoreapp2.1\test.api.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.dll
+F:\NewCSharp\NewCharacteristicForCSharp\test.api\obj\Debug\netcoreapp2.1\test.api.pdb

@@ -1,0 +1,14 @@
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\bin\Debug\RecordCarCounts.exe.config
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\bin\Debug\RecordCarCounts.exe
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\bin\Debug\RecordCarCounts.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\obj\Debug\RecordCarCounts.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\obj\Debug\RecordCarCounts.Properties.Resources.resources
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\obj\Debug\RecordCarCounts.Recording.resources
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\obj\Debug\RecordCarCounts.csproj.GenerateResource.cache
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\obj\Debug\RecordCarCounts.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\obj\Debug\RecordCarCounts.exe
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\obj\Debug\RecordCarCounts.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\bin\Debug\NLog.config
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\bin\Debug\NLog.dll
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\bin\Debug\NLog.xml
+F:\NewCSharp\NewCharacteristicForCSharp\RecordCarCounts\obj\Debug\RecordCarCounts.csproj.CopyComplete

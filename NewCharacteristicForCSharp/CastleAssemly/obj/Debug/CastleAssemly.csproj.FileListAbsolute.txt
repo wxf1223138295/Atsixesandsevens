@@ -1,0 +1,15 @@
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\CastleAssemly.dll
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\CastleAssemly.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\obj\Debug\CastleAssemly.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\obj\Debug\CastleAssemly.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\obj\Debug\CastleAssemly.dll
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\obj\Debug\CastleAssemly.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\Castle.Core.dll
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\Castle.Windsor.dll
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\Castle.Core.xml
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\Castle.Windsor.xml
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\obj\Debug\CastleAssemly.csproj.CopyComplete
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\Castle.Facilities.Logging.dll
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\log4net.dll
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\Castle.Facilities.Logging.xml
+F:\NewCSharp\NewCharacteristicForCSharp\CastleAssemly\bin\Debug\log4net.xml

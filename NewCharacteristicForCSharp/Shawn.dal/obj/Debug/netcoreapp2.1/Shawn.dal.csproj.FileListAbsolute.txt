@@ -1,0 +1,12 @@
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\bin\Debug\netcoreapp2.1\Shawn.dal.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\bin\Debug\netcoreapp2.1\Shawn.dal.deps.json
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\obj\Debug\netcoreapp2.1\Shawn.dal.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\obj\Debug\netcoreapp2.1\Shawn.dal.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\obj\Debug\netcoreapp2.1\Shawn.dal.AssemblyInfoInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\obj\Debug\netcoreapp2.1\Shawn.dal.AssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\obj\Debug\netcoreapp2.1\Shawn.dal.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\obj\Debug\netcoreapp2.1\Shawn.dal.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\bin\Debug\netcoreapp2.1\Shawn.dal.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\bin\Debug\netcoreapp2.1\shawn.module.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\bin\Debug\netcoreapp2.1\shawn.module.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Shawn.dal\obj\Debug\netcoreapp2.1\Shawn.dal.csproj.CopyComplete

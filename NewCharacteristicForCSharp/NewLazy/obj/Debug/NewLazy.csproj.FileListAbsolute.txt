@@ -1,0 +1,7 @@
+F:\NewCSharp\NewCharacteristicForCSharp\NewLazy\bin\Debug\NewLazy.exe.config
+F:\NewCSharp\NewCharacteristicForCSharp\NewLazy\bin\Debug\NewLazy.exe
+F:\NewCSharp\NewCharacteristicForCSharp\NewLazy\bin\Debug\NewLazy.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\NewLazy\obj\Debug\NewLazy.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\NewLazy\obj\Debug\NewLazy.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\NewLazy\obj\Debug\NewLazy.exe
+F:\NewCSharp\NewCharacteristicForCSharp\NewLazy\obj\Debug\NewLazy.pdb

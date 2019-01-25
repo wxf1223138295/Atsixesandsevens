@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Abp">
+      <HintPath>C:\Users\RICH-IT-DEV\.nuget\packages\abp\3.8.3\lib\netstandard2.0\Abp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

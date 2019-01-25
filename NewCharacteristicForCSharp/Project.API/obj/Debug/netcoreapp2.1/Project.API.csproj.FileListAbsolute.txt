@@ -1,0 +1,17 @@
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\bin\Debug\netcoreapp2.1\Project.API.deps.json
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\bin\Debug\netcoreapp2.1\Project.API.runtimeconfig.json
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\bin\Debug\netcoreapp2.1\Project.API.runtimeconfig.dev.json
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\bin\Debug\netcoreapp2.1\Project.API.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.RazorAssemblyInfo.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.RazorAssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.AssemblyInfoInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.AssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.RazorTargetAssemblyInfo.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\bin\Debug\netcoreapp2.1\Project.API.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\bin\Debug\netcoreapp2.1\Project.Domain.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\bin\Debug\netcoreapp2.1\Project.Domain.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Project.API\obj\Debug\netcoreapp2.1\Project.API.csproj.CopyComplete

@@ -1,0 +1,10 @@
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\bin\Debug\TestAwait.exe.config
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\bin\Debug\TestAwait.exe
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\bin\Debug\TestAwait.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\obj\Debug\TestAwait.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\obj\Debug\TestAwait.Form1.resources
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\obj\Debug\TestAwait.Properties.Resources.resources
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\obj\Debug\TestAwait.csproj.GenerateResource.cache
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\obj\Debug\TestAwait.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\obj\Debug\TestAwait.exe
+F:\NewCSharp\NewCharacteristicForCSharp\TestAwait\obj\Debug\TestAwait.pdb

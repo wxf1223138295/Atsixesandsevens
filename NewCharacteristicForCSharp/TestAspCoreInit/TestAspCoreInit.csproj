@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.LoggingFacility.MsLogging" Version="3.1.0" />
+    <PackageReference Include="Castle.Windsor.MsDependencyInjection" Version="3.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.1.1" />
+    <PackageReference Include="Nito.AsyncEx.Coordination" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Abp">
+      <HintPath>aspnetcoreabp\Abp.dll</HintPath>
+    </Reference>
+    <Reference Include="Abp.AspNetCore">
+      <HintPath>aspnetcoreabp\Abp.AspNetCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Abp.Web.Common">
+      <HintPath>aspnetcoreabp\Abp.Web.Common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

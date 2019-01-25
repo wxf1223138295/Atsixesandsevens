@@ -1,0 +1,38 @@
+﻿1. out 变量（out variables）
+
+2. 元组（Tuples） C# 7 中的元组（ValueTuple）
+
+		 1）ValueTuple 支持语义上的字段命名。
+
+         2）ValueTuple 是值类型（Struct）。
+
+3. 模式匹配（Pattern matching）
+
+4. 局部函数（Local functions）
+
+5. 更多的表达式体成员（More expression-bodied members）
+         构造函数 、析构函数、带 get，set 访问器的属性、以及索引器
+
+6. Throw 表达式（Throw expressions） 
+			以前并不是所有语句都可以抛出异常的，如：条件表达式（？ ：）、null合并运算符（??）、一些Lambda 表达式。而使用 C# 7 您可在任意地方抛出异常
+
+7. 扩展异步返回类型（Generalized async return types） 
+
+8. 数字文本语法的改进（Numeric literal syntax improvements）
+
+https://docs.microsoft.com/zh-cn/dotnet/csharp/whats-new/csharp-7
+
+
+C# 7.1 main 函数可以加async修饰符实现异步 
+
+static int Main()
+{
+    return DoAsyncWork().GetAwaiter().GetResult();
+}
+
+static async Task<int> Main()
+{
+    // This could also be replaced with the body
+    // DoAsyncWork, including its await expressions:
+    return await DoAsyncWork();
+}

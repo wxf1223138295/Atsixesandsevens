@@ -1,0 +1,12 @@
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\bin\Debug\netcoreapp2.1\Project.Domain.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\obj\Debug\netcoreapp2.1\Project.Infrastructure.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\obj\Debug\netcoreapp2.1\Project.Infrastructure.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\obj\Debug\netcoreapp2.1\Project.Infrastructure.AssemblyInfoInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\obj\Debug\netcoreapp2.1\Project.Infrastructure.AssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\bin\Debug\netcoreapp2.1\Project.Infrastructure.deps.json
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\bin\Debug\netcoreapp2.1\Project.Infrastructure.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\bin\Debug\netcoreapp2.1\Project.Infrastructure.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\bin\Debug\netcoreapp2.1\Project.Domain.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\obj\Debug\netcoreapp2.1\Project.Infrastructure.csproj.CopyComplete
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\obj\Debug\netcoreapp2.1\Project.Infrastructure.dll
+F:\NewCSharp\NewCharacteristicForCSharp\Project.Infrastructure\obj\Debug\netcoreapp2.1\Project.Infrastructure.pdb

@@ -1,0 +1,14 @@
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\bin\Debug\netcoreapp2.1\ThreadInt.deps.json
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\bin\Debug\netcoreapp2.1\ThreadInt.runtimeconfig.json
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\bin\Debug\netcoreapp2.1\ThreadInt.runtimeconfig.dev.json
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\bin\Debug\netcoreapp2.1\ThreadInt.dll
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\bin\Debug\netcoreapp2.1\ThreadInt.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\obj\Debug\netcoreapp2.1\ThreadInt.csproj.CoreCompileInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\obj\Debug\netcoreapp2.1\ThreadInt.AssemblyInfoInputs.cache
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\obj\Debug\netcoreapp2.1\ThreadInt.AssemblyInfo.cs
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\obj\Debug\netcoreapp2.1\ThreadInt.dll
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\obj\Debug\netcoreapp2.1\ThreadInt.pdb
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\obj\Debug\netcoreapp2.1\ThreadInt.csprojAssemblyReference.cache
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Razor.Language.xml
+F:\NewCSharp\NewCharacteristicForCSharp\ThreadInt\obj\Debug\netcoreapp2.1\ThreadInt.csproj.CopyComplete
